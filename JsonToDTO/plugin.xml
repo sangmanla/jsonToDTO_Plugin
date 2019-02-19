@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="org.eclipse.ui.newWizards">
+      <category
+            id="JsonToDTO"
+            name="DTO generator from JSON">
+      </category>
+      <wizard
+            category="JsonToDTO"
+            class="sangman.jsontodto.wizards.DTOGeneratorFromJSON"
+            icon="icons/sample.gif"
+            id="sangman.jsontodto.wizards.SDTOGeneratorFromJSON"
+            name="Generate DTO from JSON">
+      </wizard>
+   </extension>
+</plugin>
