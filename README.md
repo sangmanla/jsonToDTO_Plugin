@@ -44,7 +44,7 @@ Java 8 : This plugin is based on Java 8 environment, which means that the plugin
 
 * **Sangman Na** - *Initial work* - [sangmanla](https://github.com/sangmanla)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/sangmanla/jsonToDTO_Plugin/contributors) who participated in this project.
 
 ## License
 
