@@ -42,7 +42,7 @@ Java 8 : This plugin is based on Java 8 environment, which means that the plugin
 
 ## Authors
 
-* **Sangman Na** - *Initial work* - [sangmanl](https://github.com/sangmanla)
+* **Sangman Na** - *Initial work* - [sangmanla](https://github.com/sangmanla)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
